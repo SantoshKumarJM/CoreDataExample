@@ -14,6 +14,7 @@
 		AAF0C1FD2547E737006C0738 /* CoreDataExample.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = AAF0C1FB2547E737006C0738 /* CoreDataExample.xcdatamodeld */; };
 		AAF0C1FF2547E73C006C0738 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AAF0C1FE2547E73C006C0738 /* Assets.xcassets */; };
 		AAF0C2022547E73C006C0738 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AAF0C2002547E73C006C0738 /* LaunchScreen.storyboard */; };
+		AAF0C20A2547E777006C0738 /* CoreDataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAF0C2092547E777006C0738 /* CoreDataManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		AAF0C1FE2547E73C006C0738 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AAF0C2012547E73C006C0738 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AAF0C2032547E73C006C0738 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AAF0C2092547E777006C0738 /* CoreDataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				AAF0C1F22547E737006C0738 /* AppDelegate.swift */,
 				AAF0C1F42547E737006C0738 /* SceneDelegate.swift */,
 				AAF0C1F62547E737006C0738 /* ViewController.swift */,
+				AAF0C2092547E777006C0738 /* CoreDataManager.swift */,
 				AAF0C1F82547E737006C0738 /* Main.storyboard */,
 				AAF0C1FE2547E73C006C0738 /* Assets.xcassets */,
 				AAF0C2002547E73C006C0738 /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 				AAF0C1F72547E737006C0738 /* ViewController.swift in Sources */,
 				AAF0C1F32547E737006C0738 /* AppDelegate.swift in Sources */,
 				AAF0C1F52547E737006C0738 /* SceneDelegate.swift in Sources */,
+				AAF0C20A2547E777006C0738 /* CoreDataManager.swift in Sources */,
 				AAF0C1FD2547E737006C0738 /* CoreDataExample.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
